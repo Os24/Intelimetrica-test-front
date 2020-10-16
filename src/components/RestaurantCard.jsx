@@ -87,7 +87,7 @@ function RestaurantCard() {
     const pageStart = index*PAGE_SIZE
     const pageEnd = index*PAGE_SIZE + PAGE_SIZE 
     return filterByRate(rate).slice(pageStart,pageEnd)
-   
+    //return filterByName(name)
     
   }
   function filterByRate(rate){
@@ -103,7 +103,7 @@ function RestaurantCard() {
 
 
   const [name,setName] = useState({
-    name:'Restaurante',
+    name:'Barajas',
   });
   const [rate, setRate] = useState(null);
 
@@ -118,7 +118,7 @@ function RestaurantCard() {
     let property = event.target.name
     console.log(value)
     console.log(property)
-    filterByName(event.target.value)
+    setPage(1)
     setName(event.target.value);
 
   };
@@ -126,12 +126,12 @@ function RestaurantCard() {
   return (
     <div>
       <div className={'search-box-container'}>
-  
-            <TextField 
-              
-               onChange={handleChangeName}
-              name="name"
-            id="standard-basic" label="Restaurante" />
+        <TextField 
+              type="text"
+              onChange={handleChangeName}
+              id="standard-basic" label="Restaurante" 
+              name = "name"
+            />
         <FormControl className={classes.formControl}>
         <InputLabel id="demo-simple-select-label">Rate</InputLabel>
         <Select
