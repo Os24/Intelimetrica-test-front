@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b8c44f94740b7dbf5a095356a56509c",
+    "revision": "6ee25de4e6303440bd6efbf65b7e1cd0",
     "url": "/Intelimetrica-test-front/index.html"
   },
   {
-    "revision": "f16502ed87c17d75a1db",
+    "revision": "c620609810dad5906c0b",
     "url": "/Intelimetrica-test-front/static/css/main.a5de7016.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Intelimetrica-test-front/static/js/2.0005fcac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f16502ed87c17d75a1db",
-    "url": "/Intelimetrica-test-front/static/js/main.c3939f1a.chunk.js"
+    "revision": "c620609810dad5906c0b",
+    "url": "/Intelimetrica-test-front/static/js/main.56ee22ce.chunk.js"
   },
   {
     "revision": "583b4aea8e20dc4ea6e1",
