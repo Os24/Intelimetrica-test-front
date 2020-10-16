@@ -116,8 +116,6 @@ function RestaurantCard() {
   const handleChangeName = event => {
     let value = event.target.value
     let property = event.target.name
-    console.log(value)
-    console.log(property)
     setPage(1)
     setName(event.target.value);
 
