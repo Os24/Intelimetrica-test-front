@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Intelimetrica-test-front/static/css/main.a5de7016.chunk.css",
+    "main.js": "/Intelimetrica-test-front/static/js/main.c3939f1a.chunk.js",
+    "main.js.map": "/Intelimetrica-test-front/static/js/main.c3939f1a.chunk.js.map",
+    "runtime-main.js": "/Intelimetrica-test-front/static/js/runtime-main.eeb2fd89.js",
+    "runtime-main.js.map": "/Intelimetrica-test-front/static/js/runtime-main.eeb2fd89.js.map",
+    "static/js/2.0005fcac.chunk.js": "/Intelimetrica-test-front/static/js/2.0005fcac.chunk.js",
+    "static/js/2.0005fcac.chunk.js.map": "/Intelimetrica-test-front/static/js/2.0005fcac.chunk.js.map",
+    "index.html": "/Intelimetrica-test-front/index.html",
+    "precache-manifest.f802b7f0e4f2843d831448a2f2ea2584.js": "/Intelimetrica-test-front/precache-manifest.f802b7f0e4f2843d831448a2f2ea2584.js",
+    "service-worker.js": "/Intelimetrica-test-front/service-worker.js",
+    "static/css/main.a5de7016.chunk.css.map": "/Intelimetrica-test-front/static/css/main.a5de7016.chunk.css.map",
+    "static/js/2.0005fcac.chunk.js.LICENSE.txt": "/Intelimetrica-test-front/static/js/2.0005fcac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeb2fd89.js",
+    "static/js/2.0005fcac.chunk.js",
+    "static/css/main.a5de7016.chunk.css",
+    "static/js/main.c3939f1a.chunk.js"
+  ]
+}
